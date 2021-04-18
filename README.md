@@ -1,5 +1,8 @@
 # droughtTrackML
 
+## Video Link:
+https://youtu.be/btrxmaQ4yEk
+
 ## Inspiration
 According to the World Health Organization, water scarcity impacts 40% of the world’s population, and as many as 700 million people are at-risk of being displaced as a result of drought by 2030. We think that, potentially, drought prediction software could help people and governments in these areas to plan ahead and avoid unforeseen circumstances, in turn improving the quality of life in these regions.
 
